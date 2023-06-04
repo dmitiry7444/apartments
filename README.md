@@ -14,11 +14,11 @@ DB_PASSWORD=root //database password
 DB_HOST=localhost //database host
 DB_PORT=5432 //database port
 ```
-3. Import cvs file with test data on pgAdmin
-4. Backend launch
+3. Backend launch
 ```sh
 npm run dev
 ```
+4. Import cvs file with test data on pgAdmin
 
 # Frontend launch
 
